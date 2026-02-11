@@ -606,7 +606,7 @@ Zero security incidents during development.
 
 ## 📜 License
 
-This project is a **Proof of Concept (PoC)** developed for educational/demonstration purposes.
+This project is a **Proof of Concept (PoC)** developed for demonstration purposes.
 
 **Usage:**
 - ✅ Academic/research use
@@ -632,10 +632,8 @@ This is a PoC project, but feedback is welcome!
 
 ## 📧 Contact
 
-**Project Maintainer:** [Your Name]  
-**Email:** [your.email@example.com]  
-**GitHub:** [@yourusername](https://github.com/yourusername)  
-**LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)
+**Project Maintainer:** Vasu Khanna  
+**Email:** vasukhanna6292@gmail.com 
 
 ---
 
@@ -652,7 +650,7 @@ This is a PoC project, but feedback is welcome!
 ## 📊 Project Stats
 
 - **Total Lines of Code:** ~2,500
-- **Development Time:** 2 weeks
+- **Development Time:** 5 Days
 - **Dependencies:** 10 packages
 - **Test Coverage:** Core engines tested
 - **API Endpoints:** 2 (full analysis, query)
